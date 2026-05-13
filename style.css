@@ -27,6 +27,10 @@ body {
 	position: relative;
 }
 
+main {
+	flex: 1;
+}	
+
 
 /* FLOAT ANIMATION For HOME LOGO */
 
@@ -462,7 +466,6 @@ footer {
 .main-content {
     flex: 1 0 auto;
 }
-
 
 /* FOR ALL DEVICES */
 
