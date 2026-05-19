@@ -487,6 +487,14 @@ footer {
 		flex-direction: column;
 		align-items: center;
 	}
+	
+	.poster img {
+	
+    width: 300px;
+	max-width: 450px;
+	margin: 30px;
+    border-radius: 15px;
+}
 
 	.card {
 		width: 95%;
@@ -494,6 +502,8 @@ footer {
 	}
 
 	.info {
-		width: 95%
+		max-width: 350px;
+		width: 100%;
+		margin: auto;
 	}
 }	
